@@ -1,0 +1,7 @@
+D:\Дата\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Дата\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Дата\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Дата\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\Дата\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Дата\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Дата\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
